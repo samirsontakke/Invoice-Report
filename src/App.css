@@ -1,0 +1,63 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+h1 {
+  font-size: 20px;
+  font-weight:bold;
+}
+.footer{
+  background-color: #D1C4E9;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.pending-style{
+  
+  border-top-style: solid;
+  border-top-color: blue;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: blue;
+}
+
+.paid-style{
+  
+  border-top-style: solid;
+  border-top-color: green;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color:green;
+ 
+}
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #D1C4E9;
+  color:black;
+}
+
+.cellContainerheader {
+  width: 30%;
+  float: left;
+  margin-bottom: 25px;
+}
+.cellContainer {
+  width: 50%;
+  float: left;
+  
+}
+hr {
+  margin: 20px 0;
+}
